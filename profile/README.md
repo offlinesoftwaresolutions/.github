@@ -114,7 +114,7 @@ eGate is different — one payment, full control, completely offline.</p>
 
 <br><br>
 
-<sub>Built by <b>Offline Software Solutions</b> — software that works without the cloud.</sub>
+<sub>Built by <b>Offline Software Solutions</b></sub>
 
 <br><br>
 
