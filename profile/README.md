@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Offline_Software_Solutions-000000?style=for-the-badge" alt="Offline Software Solutions" />
+<img src="https://raw.githubusercontent.com/offlinesoftwaresolutions/.github/main/profile/egate-logo.webp" alt="eGate Logo" width="150" />
 
-<br><br>
+<br>
 
 # eGate
 
