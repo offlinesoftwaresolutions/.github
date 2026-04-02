@@ -20,7 +20,9 @@
 
 <br><br><br>
 
+<a href="https://github.com/offlinesoftwaresolutions/eGate">
 <img src="https://raw.githubusercontent.com/offlinesoftwaresolutions/.github/main/profile/pricing.svg" alt="eGate Pricing" width="440" />
+</a>
 
 <br><br><br>
 
